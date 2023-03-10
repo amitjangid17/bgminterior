@@ -1,9 +1,6 @@
 /* ------------------------------------------------------------------------------
 
-  Template Name: Bauhaus
-  Description: Bauhaus - OnePage Architecture & Interior HTML Template
-  Author: Murren
-  Version: 1.0
+ 
   
   1.  Global
 
@@ -1077,7 +1074,7 @@ a.brand:focus{
   display: inline-block;
   vertical-align: middle;
   width: 12.15rem;
-  height: 12.15rem;
+  height: 10.15rem;
   border:0.357rem solid #cee002;
 }
 
@@ -1085,14 +1082,14 @@ a.brand:focus{
   display: inline-block;
   vertical-align: middle;
   position: relative;
-  left: -8rem;
+  left: -12rem;
   top:0.2rem;
 }
 
 .experience-number{
   display: inline-block;
   vertical-align: middle;
-  font-size: 7.142rem;
+  font-size: 5.142rem;
   line-height: 1;
   font-weight: 600;
   color: #000;
